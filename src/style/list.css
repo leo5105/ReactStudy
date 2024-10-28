@@ -1,0 +1,17 @@
+.App {
+    margin: 0;
+    text-align: center;
+}
+
+.App-main {
+    margin: 0;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.ListArea {
+    height: 500px;
+    width: 300px;
+    border: 1px solid black;
+}
